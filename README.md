@@ -14,6 +14,10 @@ In this project, code will take three command line arguments:
 (3) port_range: the range of ports to scan (e.g. 1-1000 to scan ports 1 through 1000)
 
 
+
+
+
+
 Ex.     python network_scanner.py 192.168.1.0/24 sP 1-1000
 
 
